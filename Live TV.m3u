@@ -8,12 +8,6 @@
 #EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA" ch-number="100" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/MALAYLOGO.jpg" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/themaskedsinger.png",100 The Masked Singer (SOOKA)
 https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.resolution=540p
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-#EXTINF:-1 tvg-id=""AstroSupersportUHD"" tvg-name=""Astro UHD"" group-title=""SPORTS"""" group-logo=""https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144"" tvg-logo=""https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png"",ASTRO SUPERSPORTS
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1601/default.mpd
-
 
 #EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA" ch-number="100" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/MALAYLOGO.jpg" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/themaskedsinger.png",100 The Masked Singer (ASEROK)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
